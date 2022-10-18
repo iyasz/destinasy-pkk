@@ -4,7 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Wonderful Indonesia - Jelajahi Indonesia Bersama Kami Dengan Layanan Serba Hemat</title>
+
+    <!-- font  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap" rel="stylesheet">
 
     <!-- box icon -->
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
@@ -32,11 +37,11 @@
                 </div>
                 <div class="offcanvas-body">
                     <ul class="navbar-nav justify-content-end m-auto pe-3">
-                        <a class="nav-link " href="">Home</a>
-                        <a class="nav-link " href="">Popular</a>
-                        <a class="nav-link " href="">Location</a>
-                        <a class="nav-link" href="">Contact</a>
-                        <a class="nav-link" href="">Partner</a>
+                        <a class="nav-link mx-1 fwp-400" href="">Home</a>
+                        <a class="nav-link mx-1 fwp-400" href="">Popular</a>
+                        <a class="nav-link mx-1 fwp-400" href="">Location</a>
+                        <a class="nav-link mx-1 fwp-400" href="">Contact</a>
+                        <a class="nav-link mx-1 fwp-400" href="">Partner</a>
                     </ul>
                 </div>
             </div>

@@ -1,0 +1,66 @@
+@font-face {
+    font-family: inter1;
+    src: url(../font/inter/Inter-Light.ttf);
+}
+@font-face {
+    font-family: inter2;
+    src: url(../font/inter/Inter-Medium.ttf);
+}
+@font-face {
+    font-family: inter3;
+    src: url(../font/inter/Inter-Regular.ttf);
+}
+
+.fw-200 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+.fwp-200 {
+    font-family: inter1;
+    font-weight: 200;
+}
+
+
+.fw-300 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+.fwp-300 {
+    font-family: inter2;
+    font-weight: 300;
+}
+
+
+.fw-400 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.fwp-400 {
+    font-family: inter3;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+}
+
+
+.fw-600 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+/* font size */
+
+.fs-footer {
+    font-size: 14px;
+    text-decoration: none;
+    padding-bottom: 20px ;
+}
+
+.fs-info {
+    font-size: 13px;
+    opacity: 79%;
+    letter-spacing: 0.2px;
+}
+
+.fs-footer:hover{
+    text-decoration: underline !important;
+}
