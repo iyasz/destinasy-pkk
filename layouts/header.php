@@ -20,8 +20,9 @@
     <nav id="nav" class="navbar navbar-expand-md navbar-dark bg-dark fixed-top ">
         <div class="container">
             <a class="img-fluid" href="#"><img src="assets/img/logo/logowonderful.webp" width="120px" alt=""></a>
+            <a href="" class=" text-decoration-none ms-auto d-flex d-xs-block d-sm-block d-md-none d-lg-none"><i class='bx bx-user-circle text-white opacity-50 bx-sm  '></i></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">
-                <i class='bx bx-align-right bx-sm text-white opacity-50'></i>
+                <i class='bx bx-align-right bx-sm text-white opacity-50 justify-content-end'></i>
             </button>
             <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
                 <div class="offcanvas-header">
@@ -38,6 +39,6 @@
                     </ul>
                 </div>
             </div>
-            <a href=""></a>
+            <a class="text-decoration-none d-none d-sm-none d-md-block d-lg-block" href=""><i class='bx bx-user-circle text-white opacity-50 bx-sm '></i></a>
         </div>
     </nav>

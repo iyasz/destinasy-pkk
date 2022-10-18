@@ -1,3 +1,20 @@
 .navbar-toggler:focus {
   box-shadow: none !important;
 }
+
+.nav-ic {
+    left: 320px;
+}
+
+.ic-ac {
+    left: 290px;
+}
+
+.ms-8 {
+    margin-left: 130px;
+}
+
+.navbar-toggler {
+    border: none !important;
+    outline:  none !important;
+}
